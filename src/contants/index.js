@@ -81,7 +81,7 @@ const technologies = [
         icon: reactjs,
     },
     {
-        name: "Redux Toolkit",
+        name: "C++",
         icon: redux,
     },
     {
@@ -93,24 +93,16 @@ const technologies = [
         icon: nodejs,
     },
     {
-        name: "MongoDB",
+        name: "JAVA",
         icon: mongodb,
-    },
-    {
-        name: "Three JS",
-        icon: threejs,
     },
     {
         name: "git",
         icon: git,
     },
     {
-        name: "figma",
+        name: "Android",
         icon: figma,
-    },
-    {
-        name: "docker",
-        icon: docker,
     },
 ];
 
